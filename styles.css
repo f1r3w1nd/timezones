@@ -1,0 +1,20 @@
+#app {
+    clear: both;
+}
+
+.countries_col {
+    display: block;
+    float: left;
+    width: 362px;
+    /* text-align: right; */
+    margin-right: 16px;
+}
+
+.timestamp_col {
+    float: left;
+    display: block;
+}
+
+ul {
+    list-style: none;
+}
